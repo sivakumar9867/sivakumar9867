@@ -1,11 +1,9 @@
 
 # Hi, I'm Siva Kumar 👋
 
-### Aspiring AI & Generative AI Developer
+### B.Tech CSE (AI) Student | Software & AI Developer | 2027 Graduate
 
-🎓 B.Tech CSE – Artificial Intelligence | Parul University
-
-I'm passionate about building practical AI-powered applications and exploring technologies that solve real-world problems.
+I'm passionate about building practical software applications and exploring Artificial Intelligence, Machine Learning, and Generative AI to solve real-world problems.
 
 ### 🚀 Areas of Interest
 - Artificial Intelligence & Generative AI
